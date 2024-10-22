@@ -1,14 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Applied Structural Mechanics"
 collection: teaching
-type: "Workshop"
+type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Download the lecture notes: [Part I][https://www.researchgate.net/publication/373871067_Hand-written_Lecture_Notes_on_Applied_Structural_Mechanics_Part_I] and [Part II][https://www.researchgate.net/publication/373871086_Hand-written_Lecture_Notes_on_Applied_Structural_Mechanics_Part_II].
 
 Heading 1
 ======

@@ -3,7 +3,7 @@ title: "Continuum Mechanics and Thermodynamics"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/CMT_2015fall
-venue: "UMN AEM"
+venue: "UMN, AEM"
 date: 2015-09-07
 ---
 

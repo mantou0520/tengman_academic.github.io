@@ -11,35 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Civil Engineering, University of Minnesota - Twin Cities, 2019
+* M.Eng. in Structural Engineering, Jilin University, 2015
+* B.Eng. in Civil Engineering, Jilin University, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.08 - present: Zhaohui Research Associate
+  * Zhejiang University of Technology, Hangzhou, Zhejiang Province, China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019.06 - 2024.08: Research Fellow
+  * Westlake University, Hangzhou, Zhejiang Province, China
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019.04 - 2019.06: Temporary Researcher
+  * St. Anthony Fall Lab, University of Minnesota, Minneapolis, MN, United States
+
 
 Publications
 ======

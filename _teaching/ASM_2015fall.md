@@ -3,6 +3,7 @@ title: "Applied Structural Mechanics"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/ASM_2015fall
+venue: "UMN CEGE"
 date: 2015-09-07
 ---
 

@@ -2,8 +2,8 @@
 title: "Applied Structural Mechanics"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2015-spring-teaching-1
-time: 2015 Fall
+permalink: /teaching/ASM_2015fall
+date: 2015 Fall
 ---
 
 Download the lecture notes: [Part I](https://www.researchgate.net/publication/373871067_Hand-written_Lecture_Notes_on_Applied_Structural_Mechanics_Part_I) and [Part II](https://www.researchgate.net/publication/373871086_Hand-written_Lecture_Notes_on_Applied_Structural_Mechanics_Part_II).

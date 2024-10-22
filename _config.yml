@@ -24,11 +24,11 @@ author:
   avatar           : "PersonalPhoto.jpg"
   name             : "Teng MAN, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "A researcher & a ravenclaw"
+  bio              : "A Researcher & A Ravenclaw"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University of Technology"
   uri              : # URL
-  email            : manteng0520@zjut.edu.cn
+  email            : "manteng0520@zjut.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

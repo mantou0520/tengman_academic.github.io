@@ -2,7 +2,7 @@
 title: "Continuum Mechanics and Thermodynamics"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/CMT_2015fall
 date: 2015 Fall
 ---
 

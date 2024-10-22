@@ -15,6 +15,9 @@ Most Recent Updates
 ======
 I will list my most recent publications here.
 
+* Dr. Man started his new position at ZJUT on Aug. 28, 2024.
+* Dr. Man attended the 2024 Annual Meeting of the Society of Engineering Science and organized a minisymposium on granular materials.
+
 Contact Info
 ======
 E-mail: [manteng0520@zjut.edu.cn](mailto:manteng0520@zjut.edu.cn)

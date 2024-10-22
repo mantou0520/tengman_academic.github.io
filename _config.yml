@@ -27,8 +27,8 @@ author:
   bio              : "A researcher & a ravenclaw"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University of Technology"
-  uri              : # URL
-  email            : "manteng0520@zjut.edu.cn" 
+  uri              : https://mantou0520.github.io/tengman_academic.github.io# URL
+  email            : manteng0520@zjut.edu.cn
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -52,7 +52,7 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : # Username
+  goodreads        : "mantou0520"
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username

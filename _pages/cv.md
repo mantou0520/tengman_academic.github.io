@@ -39,12 +39,16 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Lecture Notes
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Memberships
 ======
-* Currently signed in to 43 different slack teams
+* Member, Chinese Society of Theoretical and Applied Mechanics
+* Member, Chinese Society of Particuology
+* Member, American Physical Society
+* Member, Society of Rheology
+* Member, American Geophysical Union

@@ -20,3 +20,7 @@ Rheology of granular-fluid systems
 Segregation behavior of granular materials
 ======
 * Some details
+
+Compaction of granular systems, e.g., hot-mixed asphalt
+======
+* Some details

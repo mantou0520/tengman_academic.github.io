@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "<blue> Research </blue>"
 permalink: /research/
 author_profile: true
 redirect_from:

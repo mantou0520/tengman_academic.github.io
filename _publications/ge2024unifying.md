@@ -2,7 +2,7 @@
 title: "Unifying length-scale-based rheology of dense suspensions"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/ge2024unifying
 date: 2024-01-30
 venue: 'Physical Review Fluids'
 paperurl: 'https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.9.L012302'

@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Teng Man / Academic Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Teng Man"
 description              : &description "personal description"
 url                      : https://mantou0520.github.io/tengman_academic.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

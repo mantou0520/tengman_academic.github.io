@@ -16,6 +16,7 @@ Most Recent Updates
 
 * Dr. Man started his new position at ZJUT on Aug. 28, 2024.
 * Dr. Man attended the 2024 Annual Meeting of the Society of Engineering Science and organized a minisymposium on granular materials.
+* Dr. Man attended the Gordon Research Conference (GRC): 2024 Granular Matter Conference (Stonehill College, MA, United States) from Jun. 23rd to June 28th. The topic of this year's Granular Matter GRC is "Particle System Science and Extreme Environments".
 
 Contact Info
 ======

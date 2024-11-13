@@ -1,7 +1,7 @@
 ---
 title: "Influence of Inter-particle Friction on the Rheology of Granular Materials"
 collection: talks
-type: "Talk"
+type: "Invited talk"
 permalink: /talks/man2023CCPT
 venue: "第十二届中国颗粒大会"
 date: 2023-04-21

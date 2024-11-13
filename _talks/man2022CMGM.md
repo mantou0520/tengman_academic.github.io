@@ -8,4 +8,4 @@ date: 2022-10-21
 location: "浙江省 杭州市"
 ---
 
-Invited talk at the 6th National Conference on Computational Mechanics of Granular Materials.
+Invited talk at the 6th National Conference on Computational Mechanics of Granular Materials in Hangzhou, China.

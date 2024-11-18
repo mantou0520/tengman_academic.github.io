@@ -1,5 +1,5 @@
 ---
-title: "颗粒柱斜面坍塌动力学研究"
+title: "颗粒系统沿斜面坍塌流动规律及堆积形态研究"
 collection: talks
 type: "Invited talk"
 permalink: /talks/man2024CCPT

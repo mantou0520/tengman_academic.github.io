@@ -9,11 +9,13 @@ redirect_from:
 
 My name is Teng Man. I am currently a lecturer and a research associate at the College of Civil Engineering, Zhejiang University of Technology (ZJUT). Prior to this position, I was a research fellow working at the School of Engineering, Westlake University. At Westlake University, I spent more than five years working with [Prof. Sergio A. Galindo-Torres](https://m3.westlake.edu.cn/) to investigate the physics and mechanics of granular materials and help advise Ph.D. students. 
 
-My interest in granular materials started after I started my Ph.D. program working with Prof. Kimberly Hill and Prof. Jia-Liang Le to study the gyratory compaction of asphalt mixtures. When asphalt mixtures are at a high temperature, the asphalt binder is at liquid state. Then, the asphalt mixture can be seen as a mixture of granular materials and viscous liquid. The study of asphalt mixture compaction became granular physics related, which encouraged me to explore more on the mechanics and physics of granular system in general.
+My interest in granular materials started after I started my Ph.D. program working with [Prof. Kimberly Hill](https://cse.umn.edu/cege/hill-kimberly) and [Prof. Jia-Liang Le](https://cse.umn.edu/cege/le-jia-liang) to investigate the gyratory compaction of asphalt mixtures. When asphalt mixtures are at a high temperature, the asphalt binder is at liquid state. Then, the asphalt mixture can be seen as a mixture of granular materials and viscous liquid. The study of asphalt mixture compaction became granular physics related, which encouraged me to explore more on the mechanics and physics of granular system in general.
 
 Most Recent Updates
 ======
 
+* Single-authored [journal article](https://www.mdpi.com/1996-1944/17/22/5525) on compaction of granular systems was published in Materials.
+* A [journal article](https://www.sciencedirect.com/science/article/pii/S0266352X24008048) collaborated with Xudong Zhang from Shanghai University was accepted for publication in Computers & Geotechnics 
 * Dr. Man started his new position at ZJUT on Aug. 28, 2024.
 * Dr. Man attended the 2024 Annual Meeting of the Society of Engineering Science and organized a minisymposium on granular materials.
 * Dr. Man attended the Gordon Research Conference (GRC): 2024 Granular Matter Conference (Stonehill College, MA, United States) from Jun. 23rd to June 28th. The topic of this year's Granular Matter GRC is "Particle System Science and Extreme Environments".

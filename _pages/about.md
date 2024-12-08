@@ -14,6 +14,7 @@ My interest in granular materials started after I started my Ph.D. program worki
 Most Recent Updates
 ======
 
+* A manuscript on scaling of granular column collapses on inclined planes was accepted by JFM on Dec. 8th.
 * Single-authored [journal article](https://www.mdpi.com/1996-1944/17/22/5525) on compaction of granular systems was published in Materials.
 * A [journal article](https://www.sciencedirect.com/science/article/pii/S0266352X24008048) collaborated with Xudong Zhang from Shanghai University was accepted for publication in Computers & Geotechnics 
 * Dr. Man started his new position at ZJUT on Aug. 28, 2024.

@@ -14,13 +14,12 @@ My interest in granular materials started after I started my Ph.D. program worki
 Most Recent Updates
 ======
 
-* A paper titled Péclet-number-dependent longitudinal dispersion in discrete fracture networks was published on Water Resources Research
+* A co-authored paper titled "Microscale insights into shear viscosity scaling of granular suspensions across the jamming transition" was accepted by Physics of Fluids on Jan. 14th.
+* A paper titled Péclet-number-dependent longitudinal dispersion in discrete fracture networks was published on Water Resources Research.
 * A manuscript on scaling of granular column collapses on inclined planes was accepted by JFM on Dec. 8th.
 * Single-authored [journal article](https://www.mdpi.com/1996-1944/17/22/5525) on compaction of granular systems was published in Materials.
 * A [journal article](https://www.sciencedirect.com/science/article/pii/S0266352X24008048) collaborated with Xudong Zhang from Shanghai University was accepted for publication in Computers & Geotechnics 
-* Dr. Man started his new position at ZJUT on Aug. 28, 2024.
-* Dr. Man attended the 2024 Annual Meeting of the Society of Engineering Science and organized a minisymposium on granular materials.
-* Dr. Man attended the Gordon Research Conference (GRC): 2024 Granular Matter Conference (Stonehill College, MA, United States) from Jun. 23rd to June 28th. The topic of this year's Granular Matter GRC is "Particle System Science and Extreme Environments".
+* Dr. Teng Man started his new position at ZJUT on Aug. 28, 2024.
 
 Contact Info
 ======

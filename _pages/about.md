@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**GRAnular Materials: Mechanics & phYsics (GRAMMY)**
+*GRAnular Materials: Mechanics & phYsics (GRAMMY)*
 
 My name is Teng Man. I am currently a lecturer and a research associate at the College of Civil Engineering, Zhejiang University of Technology (ZJUT). Prior to this position, I was a research fellow working at the School of Engineering, Westlake University. At Westlake University, I spent more than five years working with [Prof. Sergio A. Galindo-Torres](https://m3.westlake.edu.cn/) to investigate the physics and mechanics of granular materials and help advise Ph.D. students. 
 
